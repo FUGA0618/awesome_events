@@ -62,3 +62,4 @@ gem 'rexml', '~> 3.2', '>= 3.2.4'
 gem 'active_storage_validations', '~> 0.8.8'
 gem 'kaminari', '~> 1.2.0'
 gem 'searchkick', '~> 4.3.0'
+gem 'simplecov', require: false, group: :test
